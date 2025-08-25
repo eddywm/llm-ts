@@ -15,6 +15,11 @@ An experimental transformer architecture built entirely in TypeScript for educat
 - 🎭 **Causal Masking** - Enable autoregressive text generation
 - ⚡ **Optimized Matrix Operations** - Custom operations for transformer architecture
 
+## ✨ Screenshots
+
+<img width="676" height="783" alt="Screenshot 2025-08-25 at 7 12 04 PM" src="https://github.com/user-attachments/assets/d06001aa-76e8-4f48-bab2-17ceda5c2603" />
+
+
 ## 🛠️ Technology Stack
 
 - **Language**: TypeScript
