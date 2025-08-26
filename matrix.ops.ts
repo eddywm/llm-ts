@@ -1,4 +1,4 @@
-import {Activations} from "./activations";
+import {Activations} from "./activation/activations";
 
 export interface Matrix {
     data: number[][];
