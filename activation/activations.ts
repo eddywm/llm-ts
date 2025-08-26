@@ -1,6 +1,6 @@
 // Activation functions
 
-import {Matrix, MatrixOps} from "../matrix.ops";
+import {Matrix, MatrixOps} from "../ops/matrix.ops";
 
 export class Activations {
     static relu(x: number): number {

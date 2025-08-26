@@ -1,7 +1,7 @@
 // LLM Transformer Model Implementation in TypeScript
 // An experimental project on LLM transformer architecture.
 
-import {Embeddings, FeedForward, LayerNorm, Matrix, MatrixOps, MultiHeadAttention } from "./matrix.ops";
+import {Embeddings, FeedForward, LayerNorm, Matrix, MatrixOps, MultiHeadAttention } from "./ops/matrix.ops";
 
 
 // Transformer Block
