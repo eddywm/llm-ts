@@ -1,4 +1,4 @@
-# 🧠 LLM-TS - 100K params AI model
+# 🧠 LLM-TS - 100k params AI model
 
 > 🚀 **Large Language Model Transformer implemented in TypeScript**
 
